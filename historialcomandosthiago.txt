@@ -1,0 +1,17 @@
+su
+sudo apt install budgie-desktop
+su
+sudo reboot
+su
+cd /home/debian/Descargas
+dir
+su
+tree
+man tree
+cd ..
+pwd
+useradd yo
+su 
+pwd
+su
+history -a
